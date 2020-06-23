@@ -1,0 +1,6 @@
+C:\Git\C-SharpHighLevel\StringCheck\bin\Debug\StringCheck.exe
+C:\Git\C-SharpHighLevel\StringCheck\bin\Debug\StringCheck.pdb
+C:\Git\C-SharpHighLevel\StringCheck\obj\Debug\StringCheck.csprojAssemblyReference.cache
+C:\Git\C-SharpHighLevel\StringCheck\obj\Debug\StringCheck.csproj.CoreCompileInputs.cache
+C:\Git\C-SharpHighLevel\StringCheck\obj\Debug\StringCheck.exe
+C:\Git\C-SharpHighLevel\StringCheck\obj\Debug\StringCheck.pdb
