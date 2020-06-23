@@ -1,0 +1,7 @@
+C:\Git\C-Sharp_Develop\obj\Debug\HitAndBlow.csprojAssemblyReference.cache
+C:\Git\C-Sharp_Develop\obj\Debug\HitAndBlow.csproj.CoreCompileInputs.cache
+C:\Git\C-Sharp_Develop\bin\Debug\HitAndBlow.exe.config
+C:\Git\C-Sharp_Develop\bin\Debug\HitAndBlow.exe
+C:\Git\C-Sharp_Develop\bin\Debug\HitAndBlow.pdb
+C:\Git\C-Sharp_Develop\obj\Debug\HitAndBlow.exe
+C:\Git\C-Sharp_Develop\obj\Debug\HitAndBlow.pdb
